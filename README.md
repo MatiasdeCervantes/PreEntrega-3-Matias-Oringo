@@ -2,9 +2,9 @@
 
 ##Orden
 
-*Hacer las migraciones de ser necesario: python manage.py makemigrations
-*Seguimos con el migrate: python manage.py migrate
-*Y terminamos haciendo correr el servidor: python manage.py runserver
+1.Hacer las migraciones de ser necesario: python manage.py makemigrations
+2.Seguimos con el migrate: python manage.py migrate
+3.Y terminamos haciendo correr el servidor: python manage.py runserver
 
 ###URLs
 A continuacion detallamos los URLs funcionales:
